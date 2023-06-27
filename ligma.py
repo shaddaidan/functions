@@ -1,0 +1,1 @@
+print('ligma ball ' * 8)
